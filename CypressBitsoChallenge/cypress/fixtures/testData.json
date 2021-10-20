@@ -1,0 +1,35 @@
+
+[
+
+  {   "testDescription" : "Mexico Account",
+      "country" : "Mexico",
+      "email": "uthmandewale+3@gmail.com",
+      "email1": "uthmandewale@gmail.com",
+      "password": "Password123@",
+      "firstName": "Smith",
+      "lastName":"John",
+      "SecondLastName": "Jonse",
+      "dateOfBirth":"02/07/1999",
+      "kinship":"Friendship",
+      "beneficiaryPercengate":2, 
+      "PIN":"1234"   
+      
+  },
+
+   { "testDescription" : "Argentina Account",
+      "country" : "Argentina",  
+      "email": "hardex4u+3@gmail.com",
+      "email1": "hardex4u@gmail.com",
+      "password": "Password123@",
+      "firstName": "Smith",
+      "lastName":"John",
+      "SecondLastName": "Jonse",
+      "dateOfBirth":"02/07/1999",
+      "kinship":"Acquaintance ",
+      "beneficiaryPercengate":3, 
+      "PIN":"1234"   
+      
+    }
+    
+    
+]
